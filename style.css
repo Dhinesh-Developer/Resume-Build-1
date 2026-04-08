@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to right, #a0799e, #c03f84);
+}
+
+/* Resume container */
+.resume-box {
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    color: black;
+    background: white;
+}
+
+/* Name */
+.name {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Contact */
+.contact {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+/* Sections */
+.section {
+    margin-top: 20px;
+}
+
+/* Headings */
+.section h4 {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: black;
+}
